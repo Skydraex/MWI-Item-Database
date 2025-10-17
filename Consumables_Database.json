@@ -1,0 +1,985 @@
+{
+  "Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "5",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "40 HP"
+    }
+  },
+  "Blueberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "80 HP"
+    }
+  },
+  "Blackberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "120 HP"
+    }
+  },
+  "Strawberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "30",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "160 HP"
+    }
+  },
+  "Mooberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "200 HP"
+    }
+  },
+  "Marsberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "50",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "240 HP"
+    }
+  },
+  "Spaceberry Donut": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "75",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "280 HP"
+    }
+  },
+  "Cupcake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "5",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "50 HP over 30s"
+    }
+  },
+  "Blueberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "100 HP over 30s"
+    }
+  },
+  "Blackberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "150 HP over 30s"
+    }
+  },
+  "Strawberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "30",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "200 HP over 30s"
+    }
+  },
+  "Mooberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "250 HP over 30s"
+    }
+  },
+  "Marsberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "50",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "300 HP over 30s"
+    }
+  },
+  "Spaceberry Cake": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "75",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "HP Restore": "350 HP over 30s"
+    }
+  },
+  "Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "5",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "40 MP"
+    }
+  },
+  "Apple Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "80 MP"
+    }
+  },
+  "Orange Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "120 MP"
+    }
+  },
+  "Plum Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "30",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "160 MP"
+    }
+  },
+  "Peach Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "200 MP"
+    }
+  },
+  "Dragon Fruit Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "50",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "240 MP"
+    }
+  },
+  "Star Fruit Gummy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "75",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "280 MP"
+    }
+  },
+  "Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "5",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "50 MP over 30s"
+    }
+  },
+  "Apple Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "100 MP over 30s"
+    }
+  },
+  "Orange Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "150 MP over 30s"
+    }
+  },
+  "Plum Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "30",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "200 MP over 30s"
+    }
+  },
+  "Peach Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "250 MP over 30s"
+    }
+  },
+  "Dragon Fruit Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "50",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "300 MP over 30s"
+    }
+  },
+  "Star Fruit Yogurt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "75",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 60s",
+      "MP Restore": "350 MP over 30s"
+    }
+  },
+  "Milking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Usable": "Milking Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Milking Level": "+3"
+    }
+  },
+  "Foraging Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Usable": "Foraging Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Foraging Level": "+3"
+    }
+  },
+  "Woodcutting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Usable": "Woodcutting Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Woodcutting Level": "+3"
+    }
+  },
+  "Cooking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Usable": "Cooking Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Cooking Level": "+3"
+    }
+  },
+  "Brewing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Usable": "Brewing Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Brewing Level": "+3"
+    }
+  },
+  "Alchemy Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Usable": "Alchemy Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Alchemy Level": "+3"
+    }
+  },
+  "Enhancing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Usable": "Enhancing Level: +3",
+      "Duration": "300s",
+      "Detail": "Decreases time cost for the action",
+      "Enhancing Level": "+3"
+    }
+  },
+  "Cheesesmithing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Usable": "Cheesesmithing Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Cheesesmithing Level": "+3"
+    }
+  },
+  "Crafting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Usable": "Crafting Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Crafting Level": "+3"
+    }
+  },
+  "Tailoring Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Usable": "Tailoring Level: +3",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+2%",
+      "Tailoring Level": "+3"
+    }
+  },
+  "Super Milking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Usable": "Milking Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Milking Level": "+6"
+    }
+  },
+  "Super Foraging Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Usable": "Foraging Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Foraging Level": "+6"
+    }
+  },
+  "Super Woodcutting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Usable": "Woodcutting Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Woodcutting Level": "+6"
+    }
+  },
+  "Super Cooking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Usable": "Cooking Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Cooking Level": "+6"
+    }
+  },
+  "Super Brewing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Usable": "Brewing Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Brewing Level": "+6"
+    }
+  },
+  "Super Alchemy Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Usable": "Alchemy Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Alchemy Level": "+6"
+    }
+  },
+  "Super Enhancing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Usable": "Enhancing Level: +6",
+      "Duration": "300s",
+      "Detail": "Decreases time cost for the action",
+      "Enhancing Level": "+6"
+    }
+  },
+  "Super Cheesesmithing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Usable": "Cheesesmithing Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Cheesesmithing Level": "+6"
+    }
+  },
+  "Super Crafting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Usable": "Crafting Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Crafting Level": "+6"
+    }
+  },
+  "Super Tailoring Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Usable": "Tailoring Level: +6",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+4%",
+      "Tailoring Level": "+6"
+    }
+  },
+  "Ultra Milking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "150",
+      "Type": "Consumable",
+      "Usable": "Milking Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Milking Level": "+8"
+    }
+  },
+  "Ultra Foraging Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "150",
+      "Type": "Consumable",
+      "Usable": "Foraging Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Foraging Level": "+8"
+    }
+  },
+  "Ultra Woodcutting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "150",
+      "Type": "Consumable",
+      "Usable": "Woodcutting Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Woodcutting Level": "+8"
+    }
+  },
+  "Ultra Cooking Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Usable": "Cooking Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Cooking Level": "+8"
+    }
+  },
+  "Ultra Brewing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Usable": "Brewing Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Brewing Level": "+8"
+    }
+  },
+  "Ultra Alchemy Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Usable": "Alchemy Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Alchemy Level": "+8"
+    }
+  },
+  "Ultra Enhancing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Usable": "Enhancing Level: +8",
+      "Duration": "300s",
+      "Detail": "Decreases time cost for the action",
+      "Enhancing Level": "+8"
+    }
+  },
+  "Ultra Cheesesmithing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Usable": "Cheesesmithing Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Cheesesmithing Level": "+8"
+    }
+  },
+  "Ultra Crafting Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Usable": "Crafting Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Crafting Level": "+8"
+    }
+  },
+  "Ultra Tailoring Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Usable": "Tailoring Level: +8",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly",
+      "Efficiency": "+6%",
+      "Tailoring Level": "+8"
+    }
+  },
+  "Gathering Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Gathering": "+15%",
+      "Duration": "300s",
+      "Detail": "Increases gathering quantity"
+    }
+  },
+  "Gourmet Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Gourmet": "+12%",
+      "Duration": "300s",
+      "Detail": "Chance to produce an additional item for free"
+    }
+  },
+  "Wisdom Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Wisdom": "+12%",
+      "Duration": "300s",
+      "Detail": "Increases experience gained"
+    }
+  },
+  "Processing Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Processing": "+15%",
+      "Duration": "300s",
+      "Detail": "Chance to instantly convert gathered resource into processed material (cheese, fabric, and lumber)"
+    }
+  },
+  "Efficiency Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Efficiency": "+10%",
+      "Duration": "300s",
+      "Detail": "Chance of repeating the action instantly"
+    }
+  },
+  "Artisan Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Usable": "Artisan: +10%",
+      "Duration": "300s",
+      "Detail": "Increases required levels for the action",
+      "Action Level": "+5"
+    }
+  },
+  "Catalytic Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Alchemy Success": "+5%",
+      "Duration": "300s",
+      "Detail": "Multiplicative bonus to success rate while alchemizing"
+    }
+  },
+  "Blessed Tea": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Blessed": "+1%",
+      "Duration": "300s",
+      "Detail": "Chance to gain +2 instead of +1 on enhancing success"
+    }
+  },
+  "Stamina Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Stamina Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Increases HP regeneration",
+      "HP Regen": "+0.5%"
+    }
+  },
+  "Intelligence Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Intelligence Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Increases MP regeneration",
+      "MP Regen": "+0.5%"
+    }
+  },
+  "Defense Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Defense Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Buffs defense level"
+    }
+  },
+  "Attack Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "20",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Attack Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Buffs attack level"
+    }
+  },
+  "Melee Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Melee Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Buffs melee level"
+    }
+  },
+  "Ranged Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Ranged Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Buffs ranged level"
+    }
+  },
+  "Magic Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Magic Level": "+8%+1",
+      "Duration": "300s",
+      "Detail": "Buffs magic level"
+    }
+  },
+  "Super Stamina Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Stamina Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Increases HP regeneration",
+      "HP Regen": "+1%"
+    }
+  },
+  "Super Intelligence Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Intelligence Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Increases MP regeneration",
+      "MP Regen": "+1%"
+    }
+  },
+  "Super Defense Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Defense Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Buffs defense level"
+    }
+  },
+  "Super Attack Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Attack Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Buffs attack level"
+    }
+  },
+  "Super Melee Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Melee Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Buffs melee level"
+    }
+  },
+  "Super Ranged Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Ranged Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Buffs ranged level"
+    }
+  },
+  "Super Magic Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Magic Level": "+16%+2",
+      "Duration": "300s",
+      "Detail": "Buffs magic level"
+    }
+  },
+  "Ultra Stamina Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "150",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Stamina Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Increases HP regeneration",
+      "HP Regen": "+1.5%"
+    }
+  },
+  "Ultra Intelligence Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "150",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Intelligence Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Increases MP regeneration",
+      "MP Regen": "+1.5%"
+    }
+  },
+  "Ultra Defense Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Defense Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Buffs defense level"
+    }
+  },
+  "Ultra Attack Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "180",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Attack Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Buffs attack level"
+    }
+  },
+  "Ultra Melee Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Melee Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Buffs melee level"
+    }
+  },
+  "Ultra Ranged Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Ranged Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Buffs ranged level"
+    }
+  },
+  "Ultra Magic Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "210",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Magic Level": "+22%+3",
+      "Duration": "300s",
+      "Detail": "Buffs magic level"
+    }
+  },
+  "Wisdom Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "40",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Wisdom": "+12%",
+      "Duration": "300s",
+      "Detail": "Increases experience gained"
+    }
+  },
+  "Lucky Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "60",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Combat Drop Rate": "+15%",
+      "Duration": "300s",
+      "Detail": "Increases drop rate of combat loot"
+    }
+  },
+  "Swiftness Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Attack Speed": "+12%",
+      "Duration": "300s",
+      "Detail": "Increases auto attack speed"
+    }
+  },
+  "Channeling Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "80",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Cast Speed": "+12%",
+      "Duration": "300s",
+      "Detail": "Increases ability casting speed"
+    }
+  },
+  "Critical Coffee": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "120",
+      "Type": "Consumable",
+      "Cooldown": "(in combat): 300s",
+      "Critical Rate": "+6%",
+      "Duration": "300s",
+      "Detail": "Increases critical damage",
+      "Critical Damage": "+10%"
+    }
+  }
+}
