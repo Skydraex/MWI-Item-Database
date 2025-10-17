@@ -1,732 +1,752 @@
 {
-  "Poke": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Pokes the targeted enemy",
-      "Cooldown": "15s",
-      "Cast Time": "0.5s",
-      "MP Cost": "25 MP",
-      "Effect": "Attacks enemy for 10HP+60% stab damage as physical damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Impale": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Impales the targeted enemy",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks enemy for 20HP+90% stab damage as physical damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Puncture": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Punctures the targeted enemy's armor, dealing damage and temporarily reducing its armor",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy for 30HP+110% stab damage as physical damage. \nDecreases target's armor by -20% for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Penetrating Strike": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Strikes the targeted enemy. On each successful hit, will pierce and hit the next enemy.",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "55 MP",
-      "Effect": "Attacks enemy for 30HP+80% stab damage as physical damage. 100% chance to pierce. Ability Exp Per Book: 500"
-    }
-  },
-  "Scratch": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Scratches the targeted enemy",
-      "Cooldown": "15s",
-      "Cast Time": "0.3s",
-      "MP Cost": "25 MP",
-      "Effect": "Attacks enemy for 10HP+60% slash damage as physical damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Cleave": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Cleaves all enemies",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks all enemies for 20HP+50% slash damage as physical damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Maim": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Maims the targeted enemy and causes bleeding",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy for 30HP+65% slash damage as physical damage.",
-      "Bleed": "s for 100% dealt damage over 9s. \nIncreases target's damage taken by 8% for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Crippling Slash": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Slashes all enemies and reduce their damage",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "55 MP",
-      "Effect": "Attacks all enemies for 20HP+60% slash damage as physical damage. \nDecreases target's damage by -12% for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Smack": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Smacks the targeted enemy",
-      "Cooldown": "15s",
-      "Cast Time": "0.3s",
-      "MP Cost": "25 MP",
-      "Effect": "Attacks enemy for 10HP+60% smash damage as physical damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Sweep": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Performs a sweeping attack on all enemies",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks all enemies for 20HP+50% smash damage as physical damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Stunning Blow": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Smashes the targeted enemy and has a chance to stun",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy for 30HP+110% smash damage as physical damage. 70% chance to stun for 3s. Ability Exp Per Book: 500"
-    }
-  },
-  "Fracturing Impact": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Attacks all enemies, dealing damage and increases their damage taken",
-      "Cooldown": "20s",
-      "Cast Time": "0.3s",
-      "MP Cost": "55 MP",
-      "Effect": "Attacks all enemies for 20HP+60% smash damage as physical damage. \nIncreases target's damage taken by 5% for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Shield Bash": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Bashes the targeted enemy with a shield, dealing extra damage based on attacker's armor",
-      "Cooldown": "12s",
-      "Cast Time": "0.3s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks enemy for 10HP+30% smash damage as physical damage. Bonus damage equal to 70% armor. Ability Exp Per Book: 500"
-    }
-  },
-  "Quick Shot": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Takes a quick shot at the targeted enemy",
-      "Cooldown": "15s",
-      "Cast Time": "0.3s",
-      "MP Cost": "25 MP",
-      "Effect": "Attacks enemy for 10HP+55% ranged damage as physical damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Aqua Arrow": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Shoots an arrow made of water at the targeted enemy",
-      "Cooldown": "18s",
-      "Cast Time": "0.5s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks enemy for 20HP+90% ranged damage as water damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Flame Arrow": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Shoots a flaming arrow at the targeted enemy",
-      "Cooldown": "18s",
-      "Cast Time": "0.5s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks enemy for 20HP+90% ranged damage as fire damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Rain Of Arrows": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Shoots a rain of arrows on all enemies",
-      "Cooldown": "20s",
-      "Cast Time": "0.5s",
-      "MP Cost": "35 MP",
-      "Effect": "Attacks all enemies for 20HP+50% ranged damage as physical damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Silencing Shot": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Takes a shot at the targeted enemy, temporarily silencing them",
-      "Cooldown": "20s",
-      "Cast Time": "0.5s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy for 30HP+100% ranged damage as physical damage. 60% chance to silence for 5s. Ability Exp Per Book: 500"
-    }
-  },
-  "Steady Shot": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Takes a shot at the targeted enemy with greatly enhanced accuracy",
-      "Cooldown": "20s",
-      "Cast Time": "0.5s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy with 200% total accuracy for 30HP+100% ranged damage as physical damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Pestilent Shot": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Shoots the targeted enemy, dealing damage and decreasing armor and resistances",
-      "Cooldown": "20s",
-      "Cast Time": "0.5s",
-      "MP Cost": "50 MP",
-      "Effect": "Attacks enemy for 30HP+100% ranged damage as physical damage. \nDecreases target's armor by -10% for 12s. \nDecreases target's water resistance by -10% for 12s. \nDecreases target's nature resistance by -10% for 12s. \nDecreases target's fire resistance by -10% for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Penetrating Shot": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Shoots the targeted enemy. On each successful hit, will pierce and hit the next enemy",
-      "Cooldown": "20s",
-      "Cast Time": "0.5s",
-      "MP Cost": "55 MP",
-      "Effect": "Attacks enemy for 30HP+80% ranged damage as physical damage. 100% chance to pierce. Ability Exp Per Book: 500"
-    }
-  },
-  "Water Strike": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Casts a water strike at the targeted enemy",
-      "Cooldown": "0s",
-      "Cast Time": "3s",
-      "MP Cost": "10 MP",
-      "Effect": "Attacks enemy for 10HP+50% magic damage as water damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Ice Spear": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Casts an ice spear at the targeted enemy, dealing damage and reducing attack speed",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "45 MP",
-      "Effect": "Attacks enemy for 20HP+130% magic damage as water damage. \nDecreases target's attack speed by -25% for 8s. Ability Exp Per Book: 500"
-    }
-  },
-  "Frost Surge": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Casts frost surge at all enemies, dealing damage and reducing evasion",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Attacks all enemies for 30HP+100% magic damage as water damage. \nDecreases target's evasion by -10% for 9s. Ability Exp Per Book: 500"
-    }
-  },
-  "Mana Spring": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Casts mana spring at all enemies, dealing damage and increasing ally MP regeneration",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Increases all allies' mp regen by 50% for 10s. Ability Exp Per Book: 500"
-    }
-  },
-  "Entangle": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Entangles the targeted enemy, dealing damage with chance to stun",
-      "Cooldown": "0s",
-      "Cast Time": "3s",
-      "MP Cost": "10 MP",
-      "Effect": "Attacks enemy for 10HP+44% magic damage as nature damage. 10% chance to stun for 2s. Ability Exp Per Book: 50"
-    }
-  },
-  "Toxic Pollen": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Casts toxic pollen at all enemies, dealing damage and decreasing armor and resistances",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "45 MP",
-      "Effect": "Attacks all enemies for 20HP+65% magic damage as nature damage. \nDecreases target's armor by -12 for 10s. \nDecreases target's water resistance by -15 for 10s. \nDecreases target's nature resistance by -20 for 10s. \nDecreases target's fire resistance by -15 for 10s. Ability Exp Per Book: 500"
-    }
-  },
-  "Nature's Veil": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Cast's a veil over all enemies, dealing damage with a chance to blind",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Attacks all enemies for 30HP+90% magic damage as nature damage. 50% chance to blind for 5s. Ability Exp Per Book: 500"
-    }
-  },
-  "Life Drain": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Drains the life force of the targeted enemy, dealing damage and healing the caster",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Attacks enemy for 30HP+180% magic damage as nature damage. Drains 8% of dealt damage as HP. Ability Exp Per Book: 500"
-    }
-  },
-  "Fireball": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Casts a fireball at the targeted enemy",
-      "Cooldown": "0s",
-      "Cast Time": "3s",
-      "MP Cost": "10 MP",
-      "Effect": "Attacks enemy for 10HP+50% magic damage as fire damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Flame Blast": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Casts a flame blast at all enemies",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "45 MP",
-      "Effect": "Attacks all enemies for 20HP+80% magic damage as fire damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Firestorm": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Casts a firestorm at all enemies",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Attacks all enemies for 20HP+60% magic damage as fire damage.",
-      "Burn": "s for 100% dealt damage over 6s. Ability Exp Per Book: 500"
-    }
-  },
-  "Smoke Burst": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Casts a smoke burst at the targeted enemy, dealing damage and decreasing their accuracy",
-      "Cooldown": "15s",
-      "Cast Time": "2s",
-      "MP Cost": "75 MP",
-      "Effect": "Attacks enemy for 30HP+180% magic damage as fire damage. \nDecreases target's accuracy by -15% for 8s. \nDecreases target's evasion by -15% for 8s. Ability Exp Per Book: 500"
-    }
-  },
-  "Minor Heal": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "1 Intelligence",
-      "Description": "Casts minor heal on yourself",
-      "Cooldown": "15s",
-      "Cast Time": "0.5s",
-      "MP Cost": "30 MP",
-      "Effect": "Heals self for 20HP+30% magic damage. Ability Exp Per Book: 50"
-    }
-  },
-  "Heal": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Casts heal on yourself",
-      "Cooldown": "15s",
-      "Cast Time": "0.5s",
-      "MP Cost": "60 MP",
-      "Effect": "Heals self for 30HP+45% magic damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Quick Aid": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "20 Intelligence",
-      "Description": "Casts heal on the ally with the lowest HP percentage",
-      "Cooldown": "12s",
-      "Cast Time": "0.2s",
-      "MP Cost": "60 MP",
-      "Effect": "Heals lowest HP ally for 40HP+30% magic damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Rejuvenate": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "50 Intelligence",
-      "Description": "Heals all allies",
-      "Cooldown": "25s",
-      "Cast Time": "0.5s",
-      "MP Cost": "90 MP",
-      "Effect": "Heals all allies for 30HP+20% magic damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Taunt": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Greatly increases threat rating",
-      "Cooldown": "60s",
-      "Cast Time": "0.2s",
-      "MP Cost": "120 MP",
-      "Effect": "Increases  threat by 250% for 65s. Ability Exp Per Book: 500"
-    }
-  },
-  "Provoke": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Tremendously increases threat rating",
-      "Cooldown": "60s",
-      "Cast Time": "0.2s",
-      "MP Cost": "150 MP",
-      "Effect": "Increases  threat by 500% for 65s. Ability Exp Per Book: 500"
-    }
-  },
-  "Toughness": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Greatly increases armor and resistances temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  armor by 20%+20 for 20s. \nIncreases  water resistance by 20%+20 for 20s. \nIncreases  nature resistance by 20%+20 for 20s. \nIncreases  fire resistance by 20%+20 for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Elusiveness": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Greatly increases evasion temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  evasion by 20% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Precision": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Greatly increases accuracy temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  accuracy by 40% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Berserk": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Greatly increases physical damage temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  physical amplify by 18% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Elemental Affinity": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Greatly increases elemental damage temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  water amplify by 40% for 20s. \nIncreases  nature amplify by 40% for 20s. \nIncreases  fire amplify by 40% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Frenzy": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Greatly increases attack speed temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  attack speed by 24% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Spike Shell": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Gains physical and elemental thorns temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  physical thorns by 6% for 30s. \nIncreases  elemental thorns by 6% for 30s. Ability Exp Per Book: 500"
-    }
-  },
-  "Retribution": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Gains retaliation temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  retaliation by 25% for 30s. Ability Exp Per Book: 500"
-    }
-  },
-  "Vampirism": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "1,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Gains lifesteal temporarily",
-      "Cooldown": "30s",
-      "Cast Time": "0.3s",
-      "MP Cost": "65 MP",
-      "Effect": "Increases  life steal by 8% for 20s. Ability Exp Per Book: 500"
-    }
-  },
-  "Revive": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Revives a dead ally",
-      "Cooldown": "300s",
-      "Cast Time": "2s",
-      "MP Cost": "200 MP",
-      "Effect": "Revives and heals a defeated ally for 100HP+100% magic damage. Ability Exp Per Book: 500"
-    }
-  },
-  "Insanity": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Increases damage, attack speed, and cast speed temporarily at the cost of HP",
-      "Cooldown": "90s",
-      "Cast Time": "0.2s",
-      "MP Cost": "80 MP",
-      "Effect": "Costs 30% of current HP. Ability Exp Per Book: 500"
-    }
-  },
-  "Invincible": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "60 Intelligence",
-      "Description": "Tremendously increases armor, resistances, and tenacity temporarily",
-      "Cooldown": "90s",
-      "Cast Time": "0.2s",
-      "MP Cost": "80 MP",
-      "Effect": "Increases  armor by 700 for 12s. \nIncreases  water resistance by 700 for 12s. \nIncreases  nature resistance by 700 for 12s. \nIncreases  fire resistance by 700 for 12s. \nIncreases  tenacity by 700 for 12s. Ability Exp Per Book: 500"
-    }
-  },
-  "Speed Aura": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Increases attack speed and cast speed for all allies.",
-      "Effect": "Increases all allies' attack speed by 3% for 120s. \nIncreases all allies' cast speed by 3% for 120s. Ability Exp Per Book: 500",
-      "Cooldown": "120s",
-      "Cast Time": "0.2s",
-      "MP Cost": "100 MP"
-    }
-  },
-  "Guardian Aura": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Increases healing amplify, evasion, armor, and resistances for all allies.",
-      "Effect": "Increases all allies' healing amplify by 5% for 120s. \nIncreases all allies' evasion by 2% for 120s. \nIncreases all allies' armor by 5 for 120s. \nIncreases all allies' water resistance by 5 for 120s. \nIncreases all allies' nature resistance by 5 for 120s. \nIncreases all allies' fire resistance by 5 for 120s. Ability Exp Per Book: 500",
-      "Cooldown": "120s",
-      "Cast Time": "0.2s",
-      "MP Cost": "100 MP"
-    }
-  },
-  "Fierce Aura": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Increases physical amplify for all allies.",
-      "Effect": "Increases all allies' physical amplify by 4% for 120s. Ability Exp Per Book: 500",
-      "Cooldown": "120s",
-      "Cast Time": "0.2s",
-      "MP Cost": "100 MP"
-    }
-  },
-  "Critical Aura": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Increases critical rate and critical damage for all allies.",
-      "Effect": "Increases all allies' critical rate by 2% for 120s. \nIncreases all allies' critical damage by 2% for 120s. Ability Exp Per Book: 500",
-      "Cooldown": "120s",
-      "Cast Time": "0.2s",
-      "MP Cost": "100 MP"
-    }
-  },
-  "Mystic Aura": {
-    "+0": {
-      "Amount": "1",
-      "Sell Price": "10,000",
-      "Type": "Ability Book",
-      "Requires": "40 Intelligence",
-      "Description": "Increases elemental amplify for all allies.",
-      "Effect": "Increases all allies' water amplify by 6% for 120s. \nIncreases all allies' nature amplify by 6% for 120s. \nIncreases all allies' fire amplify by 6% for 120s. Ability Exp Per Book: 500",
-      "Cooldown": "120s",
-      "Cast Time": "0.2s",
-      "MP Cost": "100 MP"
-    }
-  }
+/**
+ * --- Ability Scaling Formulas (JavaScript Functions) ---
+ * * You can paste these into a JavaScript file for calculation logic.
+ * The formulas are designed to calculate the enhanced effect at a given level (level 1 is the base).
+ */
+"formulas": {
+    "calculateFierceAuraEffect": "function calculateFierceAuraEffect(level) {\n    const BASE_VALUE = 4.0;\n    const RATE_PER_LEVEL = 0.08;\n    if (level <= 1) { return `${BASE_VALUE.toFixed(2)}%`; }\n    const enhancedValue = BASE_VALUE + (RATE_PER_LEVEL * (level - 1));\n    return `${(Math.round(enhancedValue * 100) / 100).toFixed(2)}%`;\n}",
+    "calculateCriticalAuraEffect": "function calculateCriticalAuraEffect(level) {\n    const BASE_VALUE = 2.0;\n    const RATE_PER_LEVEL = 0.04;\n    if (level <= 1) { return `${BASE_VALUE.toFixed(2)}%`; }\n    const enhancedValue = BASE_VALUE + (RATE_PER_LEVEL * (level - 1));\n    return `${(Math.round(enhancedValue * 100) / 100).toFixed(2)}%`;\n}",
+    "calculateGuardianAuraEffects": "function calculateGuardianAuraEffects(level) {\n    if (level <= 1) { return { \"Healing Amplify\": \"5.00%\", \"Evasion\": \"2.00%\", \"Armor\": 5, \"Water Resistance\": 5, \"Nature Resistance\": 5, \"Fire Resistance\": 5 }; }\n    const levelsIncreased = level - 1;\n    const finalHealAmp = 5.0 + (0.10 * levelsIncreased);\n    const finalEvasion = 2.0 + (0.04 * levelsIncreased);\n    const finalFlatStat = 5 + (0.1 * levelsIncreased);\n\n    return {\n        \"Healing Amplify\": `${(Math.round(finalHealAmp * 100) / 100).toFixed(2)}%`,\n        \"Evasion\": `${(Math.round(finalEvasion * 100) / 100).toFixed(2)}%`,\n        \"Armor\": Math.round(finalFlatStat),\n        \"Water Resistance\": Math.round(finalFlatStat),\n        \"Nature Resistance\": Math.round(finalFlatStat),\n        \"Fire Resistance\": Math.round(finalFlatStat)\n    };\n}",
+    "calculateSpeedAuraEffects": "function calculateSpeedAuraEffects(level) {\n    if (level <= 1) { return { \"Attack Speed\": \"3.00%\", \"Cast Speed\": \"3.00%\" }; }\n    const levelsIncreased = level - 1;\n    const finalStat = 3.00 + (0.06 * levelsIncreased);\n    const formattedStat = `${(Math.round(finalStat * 100) / 100).toFixed(2)}%`;\n    return { \"Attack Speed\": formattedStat, \"Cast Speed\": formattedStat };\n}",
+    "calculateMysticAuraEffects": "function calculateMysticAuraEffects(level) {\n    if (level <= 1) { return { \"Water Amplify\": \"6.00%\", \"Nature Amplify\": \"6.00%\", \"Fire Amplify\": \"6.00%\" }; }\n    const levelsIncreased = level - 1;\n    const finalStat = 6.00 + (0.12 * levelsIncreased);\n    const formattedStat = `${(Math.round(finalStat * 100) / 100).toFixed(2)}%`;\n    return { \"Water Amplify\": formattedStat, \"Nature Amplify\": formattedStat, \"Fire Amplify\": formattedStat };\n}",
+    "calculateReviveEffects": "function calculateReviveEffects(level) {\n    if (level <= 1) { return { \"HP Heal\": 100, \"Magic Damage Multiplier\": \"100%\" }; }\n    const finalStat = 100 + (1 * (level - 1));\n    return { \"HP Heal\": finalStat, \"Magic Damage Multiplier\": `${finalStat}%` };\n}",
+    "calculateInvincibleEffects": "function calculateInvincibleEffects(level) {\n    if (level <= 1) { return { \"Armor\": 700, \"Water Resistance\": 700, \"Nature Resistance\": 700, \"Fire Resistance\": 700, \"Tenacity\": 700 }; }\n    const finalStat = 700 + (7 * (level - 1));\n    const finalStatRounded = Math.round(finalStat);\n    return { \"Armor\": finalStatRounded, \"Water Resistance\": finalStatRounded, \"Nature Resistance\": finalStatRounded, \"Fire Resistance\": finalStatRounded, \"Tenacity\": finalStatRounded };\n}",
+    "calculateInsanityEffects": "function calculateInsanityEffects(level) {\n    const FIXED_HP_COST = \"30% of current HP\";\n    if (level <= 1) { return { \"Damage Increase\": \"30.00%\", \"Attack Speed Increase\": \"30.00%\", \"Cast Speed Increase\": \"30.00%\", \"HP Cost\": FIXED_HP_COST }; }\n    const finalStat = 30.00 + (0.15 * (level - 1));\n    const formattedStat = `${(Math.round(finalStat * 100) / 100).toFixed(2)}%`;\n    return { \"Damage Increase\": formattedStat, \"Attack Speed Increase\": formattedStat, \"Cast Speed Increase\": formattedStat, \"HP Cost\": FIXED_HP_COST };\n}"
+},
+/**
+ * ------------------------------------------------------------------
+ * --- Ability Data Starts Here ---
+ * ------------------------------------------------------------------
+ */
+  "Poke": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Pokes the targeted enemy",
+      "Cooldown": "15s",
+      "Cast Time": "0.5s",
+      "MP Cost": "25 MP",
+      "Effect": "Attacks enemy for 10HP+60% stab damage as physical damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Impale": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Impales the targeted enemy",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks enemy for 20HP+90% stab damage as physical damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Puncture": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Punctures the targeted enemy's armor, dealing damage and temporarily reducing its armor",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy for 30HP+110% stab damage as physical damage. \nDecreases target's armor by -20% for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Penetrating Strike": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Strikes the targeted enemy. On each successful hit, will pierce and hit the next enemy.",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "55 MP",
+      "Effect": "Attacks enemy for 30HP+80% stab damage as physical damage. 100% chance to pierce. Ability Exp Per Book: 500"
+    }
+  },
+  "Scratch": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Scratches the targeted enemy",
+      "Cooldown": "15s",
+      "Cast Time": "0.3s",
+      "MP Cost": "25 MP",
+      "Effect": "Attacks enemy for 10HP+60% slash damage as physical damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Cleave": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Cleaves all enemies",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks all enemies for 20HP+50% slash damage as physical damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Maim": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Maims the targeted enemy and causes bleeding",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy for 30HP+65% slash damage as physical damage.",
+      "Bleed": "s for 100% dealt damage over 9s. \nIncreases target's damage taken by 8% for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Crippling Slash": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Slashes all enemies and reduce their damage",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "55 MP",
+      "Effect": "Attacks all enemies for 20HP+60% slash damage as physical damage. \nDecreases target's damage by -12% for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Smack": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Smacks the targeted enemy",
+      "Cooldown": "15s",
+      "Cast Time": "0.3s",
+      "MP Cost": "25 MP",
+      "Effect": "Attacks enemy for 10HP+60% smash damage as physical damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Sweep": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Performs a sweeping attack on all enemies",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks all enemies for 20HP+50% smash damage as physical damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Stunning Blow": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Smashes the targeted enemy and has a chance to stun",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy for 30HP+110% smash damage as physical damage. 70% chance to stun for 3s. Ability Exp Per Book: 500"
+    }
+  },
+  "Fracturing Impact": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Attacks all enemies, dealing damage and increases their damage taken",
+      "Cooldown": "20s",
+      "Cast Time": "0.3s",
+      "MP Cost": "55 MP",
+      "Effect": "Attacks all enemies for 20HP+60% smash damage as physical damage. \nIncreases target's damage taken by 5% for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Shield Bash": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Bashes the targeted enemy with a shield, dealing extra damage based on attacker's armor",
+      "Cooldown": "12s",
+      "Cast Time": "0.3s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks enemy for 10HP+30% smash damage as physical damage. Bonus damage equal to 70% armor. Ability Exp Per Book: 500"
+    }
+  },
+  "Quick Shot": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Takes a quick shot at the targeted enemy",
+      "Cooldown": "15s",
+      "Cast Time": "0.3s",
+      "MP Cost": "25 MP",
+      "Effect": "Attacks enemy for 10HP+55% ranged damage as physical damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Aqua Arrow": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Shoots an arrow made of water at the targeted enemy",
+      "Cooldown": "18s",
+      "Cast Time": "0.5s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks enemy for 20HP+90% ranged damage as water damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Flame Arrow": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Shoots a flaming arrow at the targeted enemy",
+      "Cooldown": "18s",
+      "Cast Time": "0.5s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks enemy for 20HP+90% ranged damage as fire damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Rain Of Arrows": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Shoots a rain of arrows on all enemies",
+      "Cooldown": "20s",
+      "Cast Time": "0.5s",
+      "MP Cost": "35 MP",
+      "Effect": "Attacks all enemies for 20HP+50% ranged damage as physical damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Silencing Shot": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Takes a shot at the targeted enemy, temporarily silencing them",
+      "Cooldown": "20s",
+      "Cast Time": "0.5s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy for 30HP+100% ranged damage as physical damage. 60% chance to silence for 5s. Ability Exp Per Book: 500"
+    }
+  },
+  "Steady Shot": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Takes a shot at the targeted enemy with greatly enhanced accuracy",
+      "Cooldown": "20s",
+      "Cast Time": "0.5s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy with 200% total accuracy for 30HP+100% ranged damage as physical damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Pestilent Shot": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Shoots the targeted enemy, dealing damage and decreasing armor and resistances",
+      "Cooldown": "20s",
+      "Cast Time": "0.5s",
+      "MP Cost": "50 MP",
+      "Effect": "Attacks enemy for 30HP+100% ranged damage as physical damage. \nDecreases target's armor by -10% for 12s. \nDecreases target's water resistance by -10% for 12s. \nDecreases target's nature resistance by -10% for 12s. \nDecreases target's fire resistance by -10% for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Penetrating Shot": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Shoots the targeted enemy. On each successful hit, will pierce and hit the next enemy",
+      "Cooldown": "20s",
+      "Cast Time": "0.5s",
+      "MP Cost": "55 MP",
+      "Effect": "Attacks enemy for 30HP+80% ranged damage as physical damage. 100% chance to pierce. Ability Exp Per Book: 500"
+    }
+  },
+  "Water Strike": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Casts a water strike at the targeted enemy",
+      "Cooldown": "0s",
+      "Cast Time": "3s",
+      "MP Cost": "10 MP",
+      "Effect": "Attacks enemy for 10HP+50% magic damage as water damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Ice Spear": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Casts an ice spear at the targeted enemy, dealing damage and reducing attack speed",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "45 MP",
+      "Effect": "Attacks enemy for 20HP+130% magic damage as water damage. \nDecreases target's attack speed by -25% for 8s. Ability Exp Per Book: 500"
+    }
+  },
+  "Frost Surge": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Casts frost surge at all enemies, dealing damage and reducing evasion",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Attacks all enemies for 30HP+100% magic damage as water damage. \nDecreases target's evasion by -10% for 9s. Ability Exp Per Book: 500"
+    }
+  },
+  "Mana Spring": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Casts mana spring at all enemies, dealing damage and increasing ally MP regeneration",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Increases all allies' mp regen by 50% for 10s. Ability Exp Per Book: 500"
+    }
+  },
+  "Entangle": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Entangles the targeted enemy, dealing damage with chance to stun",
+      "Cooldown": "0s",
+      "Cast Time": "3s",
+      "MP Cost": "10 MP",
+      "Effect": "Attacks enemy for 10HP+44% magic damage as nature damage. 10% chance to stun for 2s. Ability Exp Per Book: 50"
+    }
+  },
+  "Toxic Pollen": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Casts toxic pollen at all enemies, dealing damage and decreasing armor and resistances",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "45 MP",
+      "Effect": "Attacks all enemies for 20HP+65% magic damage as nature damage. \nDecreases target's armor by -12 for 10s. \nDecreases target's water resistance by -15 for 10s. \nDecreases target's nature resistance by -20 for 10s. \nDecreases target's fire resistance by -15 for 10s. Ability Exp Per Book: 500"
+    }
+  },
+  "Nature's Veil": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Cast's a veil over all enemies, dealing damage with a chance to blind",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Attacks all enemies for 30HP+90% magic damage as nature damage. 50% chance to blind for 5s. Ability Exp Per Book: 500"
+    }
+  },
+  "Life Drain": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Drains the life force of the targeted enemy, dealing damage and healing the caster",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Attacks enemy for 30HP+180% magic damage as nature damage. Drains 8% of dealt damage as HP. Ability Exp Per Book: 500"
+    }
+  },
+  "Fireball": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Casts a fireball at the targeted enemy",
+      "Cooldown": "0s",
+      "Cast Time": "3s",
+      "MP Cost": "10 MP",
+      "Effect": "Attacks enemy for 10HP+50% magic damage as fire damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Flame Blast": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Casts a flame blast at all enemies",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "45 MP",
+      "Effect": "Attacks all enemies for 20HP+80% magic damage as fire damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Firestorm": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Casts a firestorm at all enemies",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Attacks all enemies for 20HP+60% magic damage as fire damage.",
+      "Burn": "s for 100% dealt damage over 6s. Ability Exp Per Book: 500"
+    }
+  },
+  "Smoke Burst": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Casts a smoke burst at the targeted enemy, dealing damage and decreasing their accuracy",
+      "Cooldown": "15s",
+      "Cast Time": "2s",
+      "MP Cost": "75 MP",
+      "Effect": "Attacks enemy for 30HP+180% magic damage as fire damage. \nDecreases target's accuracy by -15% for 8s. \nDecreases target's evasion by -15% for 8s. Ability Exp Per Book: 500"
+    }
+  },
+  "Minor Heal": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "1 Intelligence",
+      "Description": "Casts minor heal on yourself",
+      "Cooldown": "15s",
+      "Cast Time": "0.5s",
+      "MP Cost": "30 MP",
+      "Effect": "Heals self for 20HP+30% magic damage. Ability Exp Per Book: 50"
+    }
+  },
+  "Heal": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Casts heal on yourself",
+      "Cooldown": "15s",
+      "Cast Time": "0.5s",
+      "MP Cost": "60 MP",
+      "Effect": "Heals self for 30HP+45% magic damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Quick Aid": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "20 Intelligence",
+      "Description": "Casts heal on the ally with the lowest HP percentage",
+      "Cooldown": "12s",
+      "Cast Time": "0.2s",
+      "MP Cost": "60 MP",
+      "Effect": "Heals lowest HP ally for 40HP+30% magic damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Rejuvenate": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "50 Intelligence",
+      "Description": "Heals all allies",
+      "Cooldown": "25s",
+      "Cast Time": "0.5s",
+      "MP Cost": "90 MP",
+      "Effect": "Heals all allies for 30HP+20% magic damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Taunt": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Greatly increases threat rating",
+      "Cooldown": "60s",
+      "Cast Time": "0.2s",
+      "MP Cost": "120 MP",
+      "Effect": "Increases  threat by 250% for 65s. Ability Exp Per Book: 500"
+    }
+  },
+  "Provoke": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Tremendously increases threat rating",
+      "Cooldown": "60s",
+      "Cast Time": "0.2s",
+      "MP Cost": "150 MP",
+      "Effect": "Increases  threat by 500% for 65s. Ability Exp Per Book: 500"
+    }
+  },
+  "Toughness": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Greatly increases armor and resistances temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  armor by 20%+20 for 20s. \nIncreases  water resistance by 20%+20 for 20s. \nIncreases  nature resistance by 20%+20 for 20s. \nIncreases  fire resistance by 20%+20 for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Elusiveness": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Greatly increases evasion temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  evasion by 20% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Precision": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Greatly increases accuracy temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  accuracy by 40% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Berserk": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Greatly increases physical damage temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  physical amplify by 18% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Elemental Affinity": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Greatly increases elemental damage temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  water amplify by 40% for 20s. \nIncreases  nature amplify by 40% for 20s. \nIncreases  fire amplify by 40% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Frenzy": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Greatly increases attack speed temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  attack speed by 24% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Spike Shell": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Gains physical and elemental thorns temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  physical thorns by 6% for 30s. \nIncreases  elemental thorns by 6% for 30s. Ability Exp Per Book: 500"
+    }
+  },
+  "Retribution": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Gains retaliation temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  retaliation by 25% for 30s. Ability Exp Per Book: 500"
+    }
+  },
+  "Vampirism": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "1,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Gains lifesteal temporarily",
+      "Cooldown": "30s",
+      "Cast Time": "0.3s",
+      "MP Cost": "65 MP",
+      "Effect": "Increases  life steal by 8% for 20s. Ability Exp Per Book: 500"
+    }
+  },
+  "Revive": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Revives a dead ally",
+      "Cooldown": "300s",
+      "Cast Time": "2s",
+      "MP Cost": "200 MP",
+      "Effect": "Revives and heals a defeated ally for 100HP+100% magic damage. Ability Exp Per Book: 500"
+    }
+  },
+  "Insanity": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Increases damage, attack speed, and cast speed temporarily at the cost of HP",
+      "Cooldown": "90s",
+      "Cast Time": "0.2s",
+      "MP Cost": "80 MP",
+      "Effect": "Costs 30% of current HP. Ability Exp Per Book: 500"
+    }
+  },
+  "Invincible": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "60 Intelligence",
+      "Description": "Tremendously increases armor, resistances, and tenacity temporarily",
+      "Cooldown": "90s",
+      "Cast Time": "0.2s",
+      "MP Cost": "80 MP",
+      "Effect": "Increases  armor by 700 for 12s. \nIncreases  water resistance by 700 for 12s. \nIncreases  nature resistance by 700 for 12s. \nIncreases  fire resistance by 700 for 12s. \nIncreases  tenacity by 700 for 12s. Ability Exp Per Book: 500"
+    }
+  },
+  "Speed Aura": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Increases attack speed and cast speed for all allies.",
+      "Effect": "Increases all allies' attack speed by 3% for 120s. \nIncreases all allies' cast speed by 3% for 120s. Ability Exp Per Book: 500",
+      "Cooldown": "120s",
+      "Cast Time": "0.2s",
+      "MP Cost": "100 MP"
+    }
+  },
+  "Guardian Aura": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Increases healing amplify, evasion, armor, and resistances for all allies.",
+      "Effect": "Increases all allies' healing amplify by 5% for 120s. \nIncreases all allies' evasion by 2% for 120s. \nIncreases all allies' armor by 5 for 120s. \nIncreases all allies' water resistance by 5 for 120s. \nIncreases all allies' nature resistance by 5 for 120s. \nIncreases all allies' fire resistance by 5 for 120s. Ability Exp Per Book: 500",
+      "Cooldown": "120s",
+      "Cast Time": "0.2s",
+      "MP Cost": "100 MP"
+    }
+  },
+  "Fierce Aura": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Increases physical amplify for all allies.",
+      "Effect": "Increases all allies' physical amplify by 4% for 120s. Ability Exp Per Book: 500",
+      "Cooldown": "120s",
+      "Cast Time": "0.2s",
+      "MP Cost": "100 MP"
+    }
+  },
+  "Critical Aura": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Increases critical rate and critical damage for all allies.",
+      "Effect": "Increases all allies' critical rate by 2% for 120s. \nIncreases all allies' critical damage by 2% for 120s. Ability Exp Per Book: 500",
+      "Cooldown": "120s",
+      "Cast Time": "0.2s",
+      "MP Cost": "100 MP"
+    }
+  },
+  "Mystic Aura": {
+    "+0": {
+      "Amount": "1",
+      "Sell Price": "10,000",
+      "Type": "Ability Book",
+      "Requires": "40 Intelligence",
+      "Description": "Increases elemental amplify for all allies.",
+      "Effect": "Increases all allies' water amplify by 6% for 120s. \nIncreases all allies' nature amplify by 6% for 120s. \nIncreases all allies' fire amplify by 6% for 120s. Ability Exp Per Book: 500",
+      "Cooldown": "120s",
+      "Cast Time": "0.2s",
+      "MP Cost": "100 MP"
+    }
+  }
 }
